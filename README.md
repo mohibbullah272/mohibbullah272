@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/Z2M3539/Personal-Banner-for-Git-Hub-Created-with-Vis-Me-01-08-2025-12-54-AM.png"  />
+  <img height="250" src="https://i.ibb.co.com/2n9QK8C/Hi-There.png"  />
 </div>
 
 ###
