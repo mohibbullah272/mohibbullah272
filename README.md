@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohi-bullah-4767962a3" target="_blank">
+  <a href="https://www.linkedin.com/in/mohi-bullah247" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/najmul.sakib.3954" target="_blank">
