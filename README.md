@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/2n9QK8C/Hi-There.png"  />
+  <img height="300" src="https://i.ibb.co.com/qYSQD59v/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
 </div>
 
 ###
