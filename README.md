@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="left">I'm a frontend web developer from Bangladesh</h3>
+<h3 align="left">I'm a MERN Stack web developer from Bangladesh</h3>
 
 ###
 
