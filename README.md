@@ -76,6 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mohibbullah272/mohibbullah272/output/snake.svg" alt="Snake animation" />
+
 
 ###
